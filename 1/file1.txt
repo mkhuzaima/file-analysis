@@ -1,0 +1,7 @@
+Title:	File	Handling	in	Python
+Lab Objec&ve:	The	objec*ve	of	this	lab	is	to	evaluate the	fundamentals	of	file	handling	in.
+Prerequisites: Basic knowledge	of	Python	programming. Familiarity	with	basic	file	opera3ons	in
+Python	(open,	read,	write).
+Problem:	File	handling	(Beginner	level)
+Reading	and	Displaying	File	Content.	Write	a	Python	program	to	open	and	read	the	contents	of	the
+provided	text	file. Display	the	content	on	the	console.

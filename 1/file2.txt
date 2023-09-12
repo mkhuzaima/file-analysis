@@ -1,0 +1,25 @@
+Problem: File	Analysis (Advanced)
+Description: You	are	given	a	directory	containing	a	large	number	of	text	files.	Your	task	is	to	create	a
+Python	program	that	performs	advanced	file	analysis	on	these	text	files	and	generates	a	report
+summarizing	various	statscs	and	insights.
+Specifications:
+1. The	program	should	accept	the	following	command-line	arguments:
+• -d	or	--directory:	The	path	to	the	directory	containing	the	text	files	for	analysis.
+• -o	or	--output:	The	path	to	the	output	report	file.
+2. Perform	the	following	analyses	on	each	text	file	in	the	directory:
+• Count	the	number	of	lines	in	each	file.
+• Count	the	number	of	words	in	each	file.
+• Iden%fy	the	top	N	most	common	words	(excluding	common	stop	words	like	"the,"	"and,"
+"in,"	etc.)	in	each	file.
+• Determine	the	average	word	length	in	each	file.
+• Calculate	the	ra+o	of	vowels	to	consonants	in	each	file.
+3. Generate	a	comprehensive	report	that	includes:
+• A	summary	of	the	total	number	of	files	analyzed.
+• For	each	file,	list	the	file	name,	number	of	lines,	number	of	words,	top N	words,	average
+word	length,	and	vowel-to-consonant	ra)o.
+4. The	report	should	be	wri0en	to	the	output	file	in	a	structured	format,	such	as	CSV	or	JSON,
+for	easy	analysis.
+5. Implement	error	handling	to	check	for	valid	directory	paths	and	handle	excep7ons
+accordingly.
+6. Ensure	that	the	program	is	well	documented,	with	comments	explaining	the	code's
+functionality.
